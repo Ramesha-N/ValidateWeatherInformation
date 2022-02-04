@@ -1,0 +1,5 @@
+com\abc\accuWeather\API\core\APIBaseTest.class
+com\abc\accuWeather\API\tests\WeatherInfoTest.class
+com\abc\accuWeather\UI\core\UIBaseTest.class
+com\abc\accuWeather\API\core\BaseTest.class
+com\abc\accuWeather\UI\pages\weatherTest\WeatherTest.class

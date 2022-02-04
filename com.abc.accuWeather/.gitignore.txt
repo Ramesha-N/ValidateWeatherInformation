@@ -1,0 +1,13 @@
+/target/
+/.idea/
+/.setting/
+/test-output/
+
+.classpath
+
+.project
+
+.css
+.png
+.html
+.js
